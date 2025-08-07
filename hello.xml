@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<greeting>
+    <message>Hello from Master branch</message>
+    <version>1.0</version>
+</greeting>
